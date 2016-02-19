@@ -16,6 +16,7 @@ as well.
 These are courses I intend to take. They are listed alphabetically (sorted 
 by subject), so they do not reflect my list of priorities.
 
+
 ### Coursera
 
 #### Computer Science
@@ -114,3 +115,44 @@ by subject), so they do not reflect my list of priorities.
 * [Responsible Innovation: Ethics, Safety and Technology](https://www.edx.org/course/responsible-innovation-ethics-safety-delftx-ri101x)
 * [The Conscious Mind - A Philosophical Road Trip](https://www.edx.org/course/conscious-mind-philosophical-road-trip-trinityx-t004x)
 * [The Science of Everyday Thinking](https://www.edx.org/course/science-everyday-thinking-uqx-think101x-1)
+
+### FutureLearn
+
+#### Education
+
+* [Get Started with Online Learning](https://www.futurelearn.com/courses/online-learning) 
+  | [The Open University](http://www.open.ac.uk/)
+* [Learning Online: Learning and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating) 
+  | [University of Leeds](https://www.leeds.ac.uk/)
+* [Learning Online: Managing Your Identity](https://www.futurelearn.com/courses/online-identity)
+  | [University of Leeds](https://www.leeds.ac.uk/)
+* [Learning Online: Reflecting and Sharing](https://www.futurelearn.com/courses/reflecting-and-sharing)
+  | [University of Leeds](https://www.leeds.ac.uk/)
+* [Learning Online: Searching and Researching](https://www.futurelearn.com/courses/searching-and-researching)
+  | [University of Leeds](https://www.leeds.ac.uk/)
+* [Logical and Critical Thinking](https://www.futurelearn.com/courses/logical-and-critical-thinking)
+  | [University of Southampton](http://www.southampton.ac.uk/)
+* [Understanding Language: Learning and Teaching](https://www.futurelearn.com/courses/understanding-language)
+  | [University of Southampton](http://www.southampton.ac.uk/)
+
+### Miscellaneous
+
+#### Computer Science
+
+* [Programming in Lua](http://www.dcc.ufrj.br/~fabiom/lua/)
+
+### Programs
+
+#### Computer Science
+
+* [OSS Computer Science](https://github.com/open-source-society/computer-science)
+* [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+## Resources
+
+* [Coursera](https://coursera.org)
+* [edX](https://www.edx.org/)
+* [Future Learn](https://www.futurelearn.com/)
+* [MIT OpenCourseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
+* [Stanford Online](https://lagunita.stanford.edu/)
+* [Udacity](https://www.udacity.com/)
