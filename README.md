@@ -8,6 +8,7 @@ as well.
 
 * [Coursera](https://coursera.org/)
     - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) 
+      | [Notes](https://github.com/schlomok/courses/tree/master/coursera/learning-how-to-learn) 
       | *February 1 - March 6, 2016*
 
 ## Intended Courses
