@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Focused versus Diffuse Thinking](#focused-versus-diffuse-thinking)
+  - [Introduction: Focused and diffuse modes](#introduction-focused-and-diffuse-modes)
+  - [Using the Focused and Diffuse Modes](#using-the-focused-and-diffuse-modes)
+  - [What is Learning?](#what-is-learning)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Focused versus Diffuse Thinking
 
 ## Introduction: Focused and diffuse modes

@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Chunking - The Essentials](#chunking---the-essentials)
+  - [Illusions of competence in learning](#illusions-of-competence-in-learning)
+  - [What is a Chunk?](#what-is-a-chunk)
+  - [How to Form a Chunk](#how-to-form-a-chunk)
+  - [Illusions of Competence, the Importance of Recall, Mini-testing, and Making Mistakes](#illusions-of-competence-the-importance-of-recall-mini-testing-and-making-mistakes)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Chunking - The Essentials
 
 ## Illusions of competence in learning

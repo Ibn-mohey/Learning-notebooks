@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Optional Interviews](#optional-interviews)
+  - [Dr. Robert Bilder on Creativity and Problem Solving](#dr-robert-bilder-on-creativity-and-problem-solving)
+  - [Writing Coach Daphne Gray-Grant](#writing-coach-daphne-gray-grant)
+  - [Benny Lewis "the Irish Polyglot" about Learning Languages](#benny-lewis-the-irish-polyglot-about-learning-languages)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Optional Interviews
 
 ## Dr. Robert Bilder on Creativity and Problem Solving

@@ -1,9 +1,18 @@
-# Chapter 1: Open the Door
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Chapter 1: Open the Door -- Notes](#chapter-1-open-the-door----notes)
+- [Personal Summary](#personal-summary)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Chapter 1: Open the Door -- Notes
 
 * Barbara Oakley retrained herself to learn math.
 * Learned when/how to study but also when to quit.
 
-## Summary
+# Personal Summary
 
 **Disclaimer**: These notes may be completely incorrect. They are written from 
 memory, as this is a useful technique for learning. However, they are nowhere

@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Memory](#memory)
+  - [Diving Deeper into Memory](#diving-deeper-into-memory)
+  - [What is Long Term Memory?](#what-is-long-term-memory)
+  - [Creating Memory Groups and the Memory Palace Technique](#creating-memory-groups-and-the-memory-palace-technique)
+  - [Summing up memory](#summing-up-memory)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Memory
 
 ## Diving Deeper into Memory

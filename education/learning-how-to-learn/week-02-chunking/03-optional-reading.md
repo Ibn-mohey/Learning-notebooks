@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Reading: Chunking](#reading-chunking)
+  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
+  - [Heavier Duty References](#heavier-duty-references)
+    - [Video: What is a Chunk?](#video-what-is-a-chunk)
+    - [Video: How to Form a Chunk - Part 1](#video-how-to-form-a-chunk---part-1)
+    - [Video: How to Form a Chunk - Part 2](#video-how-to-form-a-chunk---part-2)
+    - [Video: Illusions of Competence, the Importance of Recall, Mini-testing, and Making Mistakes](#video-illusions-of-competence-the-importance-of-recall-mini-testing-and-making-mistakes)
+    - [Video: The Value of a Library of Chunks: Compaction, Transfer, Creativity, and the Law of Serendipity](#video-the-value-of-a-library-of-chunks-compaction-transfer-creativity-and-the-law-of-serendipity)
+    - [Video: Overlearning, Choking, the Einstellung Effect, and Interleaving](#video-overlearning-choking-the-einstellung-effect-and-interleaving)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Reading: Chunking
 
 NOTE: All these readings are optional

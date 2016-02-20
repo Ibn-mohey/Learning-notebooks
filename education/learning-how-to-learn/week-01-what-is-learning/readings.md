@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Readings](#readings)
+  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
+  - [Heavier Duty References](#heavier-duty-references)
+    - [Video: Introduction to the Focused and Diffuse Modes](#video-introduction-to-the-focused-and-diffuse-modes)
+    - [Video: Using the Focused and Diffuse Modes: (Or, a little Dalí will do ya)](#video-using-the-focused-and-diffuse-modes-or-a-little-dal%C3%AD-will-do-ya)
+    - [Video: What is Learning?](#video-what-is-learning)
+    - [Video: A Procrastination Preview](#video-a-procrastination-preview)
+    - [Video: Practice Makes Permanent](#video-practice-makes-permanent)
+    - [Video: Introduction to Memory](#video-introduction-to-memory)
+    - [Video: The Importance of Sleep in Learning](#video-the-importance-of-sleep-in-learning)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Readings
 
 Chapters 1-3 of A Mind for Numbers are especially helpful in providing helpful information and additional exercises related to the materials of Module 1.

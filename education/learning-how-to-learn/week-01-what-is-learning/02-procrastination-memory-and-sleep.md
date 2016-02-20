@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Procrastination, Memory, and Sleep](#procrastination-memory-and-sleep)
+  - [A Procrastination Preview](#a-procrastination-preview)
+  - [Practice Makes Permanent](#practice-makes-permanent)
+  - [Introduction to Memory](#introduction-to-memory)
+  - [The Importance of Sleep in Learning](#the-importance-of-sleep-in-learning)
+  - [Interview with Terrence Sejnowski](#interview-with-terrence-sejnowski)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Procrastination, Memory, and Sleep
 
 ## A Procrastination Preview

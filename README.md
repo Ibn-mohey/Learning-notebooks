@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Collection of Course Notes](#collection-of-course-notes)
+  - [Current Courses](#current-courses)
+    - [Education](#education)
+  - [Intended Courses](#intended-courses)
+    - [Computer Science](#computer-science)
+    - [Education](#education-1)
+    - [Health](#health)
+    - [History](#history)
+    - [Language](#language)
+    - [Linguistics](#linguistics)
+    - [Neuroscience](#neuroscience)
+    - [Philosophy](#philosophy)
+    - [Psychology](#psychology)
+    - [Statistics](#statistics)
+- [Resources](#resources)
+  - [Curriculums](#curriculums)
+    - [Computer Science](#computer-science-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Collection of Course Notes
 
 This is a collection of my course notes. They are mostly for my personal use. 
@@ -166,7 +190,7 @@ by subject), so they do not reflect my list of priorities.
 | [Game Theory](https://class.coursera.org/gametheory-005) |[Stanford University](https://www.stanford.edu/)  | [Coursera](https://coursera.org/) |
 | [Game Theory II](https://class.coursera.org/gametheory2-003/) |[Stanford University](https://www.stanford.edu/)  | [Coursera](https://coursera.org/) |
 
-## Resources
+# Resources
 
 * [Coursera](https://coursera.org)
 * [edX](https://www.edx.org/)
@@ -175,9 +199,9 @@ by subject), so they do not reflect my list of priorities.
 * [Stanford Online](https://lagunita.stanford.edu/)
 * [Udacity](https://www.udacity.com/)
 
-### Curriculums 
+## Curriculums 
 
-**Computer Science**
+### Computer Science
 
 * [OSS Computer Science](https://github.com/open-source-society/computer-science)
 * [Google Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)

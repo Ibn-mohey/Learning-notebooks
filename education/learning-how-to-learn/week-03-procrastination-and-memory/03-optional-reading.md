@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Table of Contents
+
+- [Reading: Procrastination and Memory](#reading-procrastination-and-memory)
+  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
+  - [Heavier Duty References](#heavier-duty-references)
+    - [VIDEO: Tackling Procrastination—it’s easier, and more valuable, than you think](#video-tackling-procrastination%E2%80%94it%E2%80%99s-easier-and-more-valuable-than-you-think)
+    - [Video: Zombies Everywhere: Digging Deeper to Understand the Habit of Procrastination](#video-zombies-everywhere-digging-deeper-to-understand-the-habit-of-procrastination)
+    - [Video: Surf’s Up! Process versus Product](#video-surf%E2%80%99s-up-process-versus-product)
+    - [Video: Harnessing Your Zombies to help You](#video-harnessing-your-zombies-to-help-you)
+    - [Video: Juggling Life and Learning](#video-juggling-life-and-learning)
+    - [Video: Diving Deeper into Memory](#video-diving-deeper-into-memory)
+    - [Video: Creating Meaningful Groups and the Memory Palace Technique](#video-creating-meaningful-groups-and-the-memory-palace-technique)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Reading: Procrastination and Memory
 
 NOTE: All these readings are optional
