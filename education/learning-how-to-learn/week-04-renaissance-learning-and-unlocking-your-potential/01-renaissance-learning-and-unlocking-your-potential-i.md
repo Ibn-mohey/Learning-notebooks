@@ -102,4 +102,3 @@ Change Your Thoughts, Change Your Life
 -   It's important to cut people out if their interests are to
     undercut you.
 -   You can take pride in achieving success.
-
