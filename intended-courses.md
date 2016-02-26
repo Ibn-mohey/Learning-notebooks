@@ -46,8 +46,24 @@ by subject), so they do not reflect my list of priorities.
 
 | Course | School | Platform |
 |--------|--------|----------|
-| [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) 
-| [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) |
+| [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) Pt. 1 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) |
+| [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) Pt. 2 - [Data Structures](https://www.coursera.org/learn/data-structures) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) |
+| [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) Pt. 3 - [Algorithms on Graphs and Trees](https://www.coursera.org/learn/algorithms-on-graphs-and-trees) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) |
+| [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) Pt. 4 - [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) |
+| [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) Pt. 5 - [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) |
+| [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) Pt. 2 - [Data structures: Measuring and Optimizing Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | 
+| [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) Pt. 3 - [Advanced Data Structures in Java](https://www.coursera.org/learn/advanced-data-structures) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | 
+| [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) Pt. 4 - [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | 
+
+### Full Stack Web Development
+
+| Course | School | Platform |
+|--------|--------|----------|
+| [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) Pt. 2 - [Front-End Web UI Frameworks and Tools](https://www.coursera.org/learn/web-frameworks) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) 
+| [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) Pt. 3 - [Front-End JavaScript Frameworks: AngularJS](https://www.coursera.org/learn/angular-js) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) 
+| [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) Pt. 4 - [Multiplatform Mobile App Development with Web Technologies](https://www.coursera.org/learn/hybrid-mobile-development) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) 
+| [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) Pt. 5 - [Server-side Development with NodeJS](https://www.coursera.org/learn/server-side-development) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) 
+
 
 ### Game Development
 
@@ -75,7 +91,6 @@ by subject), so they do not reflect my list of priorities.
 | [Get Started with Online Learning](https://www.futurelearn.com/courses/online-learning) | [The Open University](http://www.open.ac.uk/) | [FutureLearn](https://futurelearn.com) |
 | [Giving Helpful Feedback](https://www.coursera.org/learn/feedback) | [University of Colorado Boulder](http://www.colorado.edu/) | [Coursera](https://coursera.org/) |
 | [Leaders of Learning](https://www.edx.org/course/leaders-learning-harvardx-gse2x-0) | [Harvard University](http://www.harvard.edu/) | [edX](https://edx.org/) |
-| [Learning Mindsets and Skills](https://www.coursera.org/learn/learning-skills) | [High Tech High Graduate School of Education](http://gse.hightechhigh.org/) | [Coursera](https://coursera.org/) |
 | [Learning Online: Learning and Collaborating](https://www.futurelearn.com/courses/learning-and-collaborating) | [University of Leeds](https://www.leeds.ac.uk/) | [FutureLearn](https://futurelearn.com) |
 | [Learning Online: Managing Your Identity](https://www.futurelearn.com/courses/online-identity) | [University of Leeds](https://www.leeds.ac.uk/) | [FutureLearn](https://futurelearn.com) |
 | [Learning Online: Reflecting and Sharing](https://www.futurelearn.com/courses/reflecting-and-sharing) | [University of Leeds](https://www.leeds.ac.uk/) | [FutureLearn](https://futurelearn.com) |

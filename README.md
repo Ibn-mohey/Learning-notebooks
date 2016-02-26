@@ -28,6 +28,14 @@ The structure of this repository utilizes in the following pattern: `courses/{su
 
 ## Current Courses
 
+| Subject | Course | School | Platform | Notes | Dates |
+|---------|--------|--------|----------|-------|-------|
+| Computer Science | [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) Pt. 1 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | [Notes]() | *February 15 - April 3, 2016* |
+| Computer Science | [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) Pt. 1 - [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) | [Notes]() | *February 29 - March 27, 2016* |
+| Education | [Learning Mindsets and Skills](https://www.coursera.org/learn/learning-skills) | [High Tech High Graduate School of Education](http://gse.hightechhigh.org/) | [Coursera](https://coursera.org/) | [Notes]() | *Self-paced* |
+
+## Completed Courses
+
 ### Education
 
 | Course | School | Platform | Notes | Dates |
