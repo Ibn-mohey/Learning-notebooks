@@ -2,15 +2,18 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Renaissance Learning and Unlocking Your Potential I](#renaissance-learning-and-unlocking-your-potential-i)
-  - [How to Become a Better Learner](#how-to-become-a-better-learner)
-  - [Introduction to Renaissance Learning and Unlocking Your Potential](#introduction-to-renaissance-learning-and-unlocking-your-potential)
-  - [Create a Lively Visual Metaphor or Analogy](#create-a-lively-visual-metaphor-or-analogy)
-  - [No Need for Genius Envy](#no-need-for-genius-envy)
-  - [Change Your Thoughts, Change Your Life](#change-your-thoughts-change-your-life)
+-   [Renaissance Learning and Unlocking Your Potential
+    I](#renaissance-learning-and-unlocking-your-potential-i)
+-   [How to Become a Better Learner](#how-to-become-a-better-learner)
+-   [Introduction to Renaissance Learning and Unlocking Your
+    Potential](#introduction-to-renaissance-learning-and-unlocking-your-potential)
+-   [Create a Lively Visual Metaphor or
+    Analogy](#create-a-lively-visual-metaphor-or-analogy)
+-   [No Need for Genius Envy](#no-need-for-genius-envy)
+-   [Change Your Thoughts, Change Your
+    Life](#change-your-thoughts-change-your-life)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Renaissance Learning and Unlocking Your Potential I
 ===================================================
 
@@ -102,3 +105,4 @@ Change Your Thoughts, Change Your Life
 -   It's important to cut people out if their interests are to
     undercut you.
 -   You can take pride in achieving success.
+

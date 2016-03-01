@@ -2,13 +2,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Optional Interviews](#optional-interviews)
-  - [Dr. Norman Fortenberry - Learning at MIT](#dr-norman-fortenberry---learning-at-mit)
-  - [Scott Young, a "Marco Polo" of Learning](#scott-young-a-marco-polo-of-learning)
-  - [Amy Alkon, Author](#amy-alkon-author)
+-   [Optional Interviews](#optional-interviews)
+-   [Dr. Norman Fortenberry - Learning at
+    MIT](#dr-norman-fortenberry---learning-at-mit)
+-   [Scott Young, a "Marco Polo" of
+    Learning](#scott-young-a-marco-polo-of-learning)
+-   [Amy Alkon, Author](#amy-alkon-author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Optional Interviews
 ===================
 

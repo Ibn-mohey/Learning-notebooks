@@ -2,10 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Learning How to Learn](#learning-how-to-learn)
-  - [Course Information](#course-information)
-  - [Structure](#structure)
-  - [Credits](#credits)
+-   [Learning How to Learn](#learning-how-to-learn)
+-   [Course Information](#course-information)
+-   [Structure](#structure)
+-   [Credits](#credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 Learning How to Learn

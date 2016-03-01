@@ -2,19 +2,29 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Reading: Procrastination and Memory](#reading-procrastination-and-memory)
-  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
-  - [Heavier Duty References](#heavier-duty-references)
-    - [VIDEO: Tackling Procrastination—it’s easier, and more valuable, than you think](#video-tackling-procrastination%E2%80%94it%E2%80%99s-easier-and-more-valuable-than-you-think)
-    - [Video: Zombies Everywhere: Digging Deeper to Understand the Habit of Procrastination](#video-zombies-everywhere-digging-deeper-to-understand-the-habit-of-procrastination)
-    - [Video: Surf’s Up! Process versus Product](#video-surf%E2%80%99s-up-process-versus-product)
-    - [Video: Harnessing Your Zombies to help You](#video-harnessing-your-zombies-to-help-you)
-    - [Video: Juggling Life and Learning](#video-juggling-life-and-learning)
-    - [Video: Diving Deeper into Memory](#video-diving-deeper-into-memory)
-    - [Video: Creating Meaningful Groups and the Memory Palace Technique](#video-creating-meaningful-groups-and-the-memory-palace-technique)
+-   [Reading: Procrastination and
+    Memory](#reading-procrastination-and-memory)
+-   [Worthwhile Additional Popular
+    Works](#worthwhile-additional-popular-works)
+-   [Heavier Duty References](#heavier-duty-references)
+    -   [VIDEO: Tackling Procrastination—it’s easier, and more valuable,
+        than you
+        think](#video-tackling-procrastination%E2%80%94it%E2%80%99s-easier-and-more-valuable-than-you-think)
+    -   [Video: Zombies Everywhere: Digging Deeper to Understand the
+        Habit of
+        Procrastination](#video-zombies-everywhere-digging-deeper-to-understand-the-habit-of-procrastination)
+    -   [Video: Surf’s Up! Process versus
+        Product](#video-surf%E2%80%99s-up-process-versus-product)
+    -   [Video: Harnessing Your Zombies to help
+        You](#video-harnessing-your-zombies-to-help-you)
+    -   [Video: Juggling Life and
+        Learning](#video-juggling-life-and-learning)
+    -   [Video: Diving Deeper into
+        Memory](#video-diving-deeper-into-memory)
+    -   [Video: Creating Meaningful Groups and the Memory Palace
+        Technique](#video-creating-meaningful-groups-and-the-memory-palace-technique)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Reading: Procrastination and Memory
 ===================================
 
@@ -91,9 +101,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
-    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
-    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
+    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
+    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Surf’s Up! Process versus Product
 
@@ -110,9 +120,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
-    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
-    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
+    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
+    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Harnessing Your Zombies to help You
 
@@ -129,9 +139,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
-    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
-    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
+    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
+    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Juggling Life and Learning
 
@@ -148,9 +158,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
-    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
-    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
+    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
+    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Diving Deeper into Memory
 
@@ -183,10 +193,10 @@ Heavier Duty References
     through Hand- or Typewriting Influences Visual Recognition of New
     Graphic Shapes: Behavioral and Functional Imaging Evidence." Journal
     of Cognitive Neuroscience 20, no. 5 (2008/05/01 2008): 802-15.
--   Maguire, E.A., D.G. Gadian, I.S. Johnsrude, C.D. Good, J. Ashburner,
-    R.S.J. Frackowiak, and C.D. Frith. "Navigation-Related Structural
-    Change in the Hippocampi of Taxi Drivers." Proceedings of the
-    National Academy of Sciences 97, no. 8 (2000): 4398-403.
+-   Maguire, E.A., D.G. Gadian, I.S. Johnsrude, C.D. Good, J.
+    Ashburner, R.S.J. Frackowiak, and C.D. Frith. "Navigation-Related
+    Structural Change in the Hippocampi of Taxi Drivers." Proceedings of
+    the National Academy of Sciences 97, no. 8 (2000): 4398-403.
 -   Maguire, E.A., E.R. Valentine, J.M. Wilding, and N. Kapur. "Routes
     to Remembering: The Brains Behind Superior Memory." Nature
     Neuroscience 6, no. 1 (2003): 90-95.
@@ -201,10 +211,10 @@ Heavier Duty References
     "Comparing Memory for Handwriting Versus Typing." Paper presented at
     the Proceedings of the Human Factors and Ergonomics Society Annual
     Meeting, 2009.
--   Thiebaut de Schotten, M., F. Dell'Acqua, S. J. Forkel, A. Simmons,
-    F. Vergani, D. G. Murphy, and M. Catani. "A Lateralized Brain
-    Network for Visuospatial Attention." Nat Neurosci 14, no. 10 (Oct
-    2011): 1245-6.
+-   Thiebaut de Schotten, M., F. Dell'Acqua, S. J. Forkel, A.
+    Simmons, F. Vergani, D. G. Murphy, and M. Catani. "A Lateralized
+    Brain Network for Visuospatial Attention." Nat Neurosci 14, no. 10
+    (Oct 2011): 1245-6.
 
 ### Video: Creating Meaningful Groups and the Memory Palace Technique
 
@@ -224,10 +234,10 @@ Heavier Duty References
 -   Levin, J.R., M.E. Levin, L.D. Glasman, and M.B. Nordwall. "Mnemonic
     Vocabulary Instruction: Additional Effectiveness Evidence."
     Contemporary Educational Psychology 17, no. 2 (1992): 156-74.
--   Maguire, E.A., D.G. Gadian, I.S. Johnsrude, C.D. Good, J. Ashburner,
-    R.S.J. Frackowiak, and C.D. Frith. "Navigation-Related Structural
-    Change in the Hippocampi of Taxi Drivers." Proceedings of the
-    National Academy of Sciences 97, no. 8 (2000): 4398-403.
+-   Maguire, E.A., D.G. Gadian, I.S. Johnsrude, C.D. Good, J.
+    Ashburner, R.S.J. Frackowiak, and C.D. Frith. "Navigation-Related
+    Structural Change in the Hippocampi of Taxi Drivers." Proceedings of
+    the National Academy of Sciences 97, no. 8 (2000): 4398-403.
 -   Maguire, E.A., E.R. Valentine, J.M. Wilding, and N. Kapur. "Routes
     to Remembering: The Brains Behind Superior Memory." Nature
     Neuroscience 6, no. 1 (2003): 90-95.

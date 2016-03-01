@@ -2,18 +2,25 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Reading: Chunking](#reading-chunking)
-  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
-  - [Heavier Duty References](#heavier-duty-references)
-    - [Video: What is a Chunk?](#video-what-is-a-chunk)
-    - [Video: How to Form a Chunk - Part 1](#video-how-to-form-a-chunk---part-1)
-    - [Video: How to Form a Chunk - Part 2](#video-how-to-form-a-chunk---part-2)
-    - [Video: Illusions of Competence, the Importance of Recall, Mini-testing, and Making Mistakes](#video-illusions-of-competence-the-importance-of-recall-mini-testing-and-making-mistakes)
-    - [Video: The Value of a Library of Chunks: Compaction, Transfer, Creativity, and the Law of Serendipity](#video-the-value-of-a-library-of-chunks-compaction-transfer-creativity-and-the-law-of-serendipity)
-    - [Video: Overlearning, Choking, the Einstellung Effect, and Interleaving](#video-overlearning-choking-the-einstellung-effect-and-interleaving)
+-   [Reading: Chunking](#reading-chunking)
+-   [Worthwhile Additional Popular
+    Works](#worthwhile-additional-popular-works)
+-   [Heavier Duty References](#heavier-duty-references)
+    -   [Video: What is a Chunk?](#video-what-is-a-chunk)
+    -   [Video: How to Form a Chunk - Part
+        1](#video-how-to-form-a-chunk---part-1)
+    -   [Video: How to Form a Chunk - Part
+        2](#video-how-to-form-a-chunk---part-2)
+    -   [Video: Illusions of Competence, the Importance of Recall,
+        Mini-testing, and Making
+        Mistakes](#video-illusions-of-competence-the-importance-of-recall-mini-testing-and-making-mistakes)
+    -   [Video: The Value of a Library of Chunks: Compaction, Transfer,
+        Creativity, and the Law of
+        Serendipity](#video-the-value-of-a-library-of-chunks-compaction-transfer-creativity-and-the-law-of-serendipity)
+    -   [Video: Overlearning, Choking, the Einstellung Effect, and
+        Interleaving](#video-overlearning-choking-the-einstellung-effect-and-interleaving)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Reading: Chunking
 =================
 
@@ -233,9 +240,10 @@ Heavier Duty References
     35(4), 989.
 -   Mastascusa, E. J., Snyder, W. J., & Hoyt, B. S. (2011). Effective
     Instruction for STEM Disciplines. San Francisco, CA: Jossey Bass.
--   McDaniel, M. A., & Callender, A. A. (2008). Cognition, memory, and
-    education. In H. L. Roediger (Ed.), Cognitive Psychology of Memory,
-    Vol 2 of Learning and Memory (pp. 819-843). Oxford, UK: Elsevier.
+-   McDaniel, M. A., & Callender, A. A. (2008). Cognition, memory,
+    and education. In H. L. Roediger (Ed.), Cognitive Psychology of
+    Memory, Vol 2 of Learning and Memory (pp. 819-843). Oxford,
+    UK: Elsevier.
 -   Morris, E. (2010, June 20). "The Anosognosic’s Dilemma: Something’s
     Wrong but You’ll Never Know What It Is (Part 1)," The New
     York Times.
@@ -323,8 +331,8 @@ Heavier Duty References
     chess masters. Cognitive psychology, 56(2), 73-102. doi:
     10.1016/j.cogpsych.2007.02.001
 -   Bilalić, M., McLeod, P., & Gobet, F. (2008). Why good thoughts block
-    better ones: The mechanism of the pernicious Einstellung (set)
-    effect. Cognition, 108(3), 652-661. doi:
+    better ones: The mechanism of the pernicious Einstellung
+    (set) effect. Cognition, 108(3), 652-661. doi:
     10.1016/j.cognition.2008.05.005
 -   Carey, B. (2012). "Cognitive science meets pre-algebra." New York
     Times, Sep
@@ -333,12 +341,12 @@ Heavier Duty References
 
 -   Duarte, N. (2012). HBR Guide to Persuasive Presentations: Harvard
     Business Review Press.
--   Feynman, R. (1985). "Surely You're Joking, Mr. Feynman". NY: W.
-    W. Norton.
+-   Feynman, R. (1985). "Surely You're Joking, Mr. Feynman". NY: W. W.
+    Norton.
 -   Geary, D. C. (2011). Primal brain in the modern classroom.
     Scientific American Mind, 22(4), 44-49.
--   Kuhn, T. (1962). The Structure of Scientific Revolutions (2nd (1970)
-    ed.). Chicago, IL: University of Chicago Press.
+-   Kuhn, T. (1962). The Structure of Scientific Revolutions (2nd
+    (1970) ed.). Chicago, IL: University of Chicago Press.
 -   Luchins, A. S. (1942). Mechanization in problem solving: The effect
     of Einstellung. Psychol Monogr, 54(6), 1-95.
 -   Pachman, M., Sweller, J., & Kalyuga, S. (2013). Levels of knowledge

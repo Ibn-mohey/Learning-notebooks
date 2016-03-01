@@ -2,17 +2,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Renaissance Learning and Unlocking Your Potential II](#renaissance-learning-and-unlocking-your-potential-ii)
-  - [The Value of Teamwork](#the-value-of-teamwork)
-  - [A Test Checklist](#a-test-checklist)
-    - [The Checklist of Questions](#the-checklist-of-questions)
-  - [Hard Start - Jump to Easy](#hard-start---jump-to-easy)
-  - [Final Helpful Hints for Tests](#final-helpful-hints-for-tests)
-  - [Summary](#summary)
-  - [Wrapup to the Course](#wrapup-to-the-course)
+-   [Renaissance Learning and Unlocking Your Potential
+    II](#renaissance-learning-and-unlocking-your-potential-ii)
+-   [The Value of Teamwork](#the-value-of-teamwork)
+-   [A Test Checklist](#a-test-checklist)
+    -   [The Checklist of Questions](#the-checklist-of-questions)
+-   [Hard Start - Jump to Easy](#hard-start---jump-to-easy)
+-   [Final Helpful Hints for Tests](#final-helpful-hints-for-tests)
+-   [Summary](#summary)
+-   [Wrapup to the Course](#wrapup-to-the-course)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Renaissance Learning and Unlocking Your Potential II
 ====================================================
 

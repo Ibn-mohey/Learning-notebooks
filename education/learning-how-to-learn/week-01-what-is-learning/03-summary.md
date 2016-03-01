@@ -2,10 +2,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Summary - Module 1](#summary---module-1)
+-   [Summary - Module 1](#summary---module-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Summary - Module 1
 ==================
 

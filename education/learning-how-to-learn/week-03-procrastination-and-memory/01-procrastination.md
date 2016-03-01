@@ -2,16 +2,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Procrastination](#procrastination)
-  - [Tackling Procrastination - It's Easier, and More Valuable, than you think](#tackling-procrastination---its-easier-and-more-valuable-than-you-think)
-  - [Zombies Everywhere](#zombies-everywhere)
-  - [Process vs. Product](#process-vs-product)
-  - [Harnessing your zombies to help you](#harnessing-your-zombies-to-help-you)
-  - [Juggling Life and Learning](#juggling-life-and-learning)
-  - [Summing up Procrastination](#summing-up-procrastination)
+-   [Procrastination](#procrastination)
+-   [Tackling Procrastination - It's Easier, and More Valuable, than you
+    think](#tackling-procrastination---its-easier-and-more-valuable-than-you-think)
+-   [Zombies Everywhere](#zombies-everywhere)
+-   [Process vs. Product](#process-vs-product)
+-   [Harnessing your zombies to help
+    you](#harnessing-your-zombies-to-help-you)
+-   [Juggling Life and Learning](#juggling-life-and-learning)
+-   [Summing up Procrastination](#summing-up-procrastination)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Procrastination
 ===============
 

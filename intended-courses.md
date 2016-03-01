@@ -6,6 +6,7 @@ Table of Contents
   - [Computer Science](#computer-science)
     - [Agile Development/Methodologies](#agile-developmentmethodologies)
     - [Data Structures/Algorithms](#data-structuresalgorithms)
+    - [Full Stack Web Development](#full-stack-web-development)
     - [Game Development](#game-development)
     - [Lua](#lua)
     - [Software Engineering](#software-engineering)

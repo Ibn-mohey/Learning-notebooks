@@ -2,21 +2,28 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Reading: Renaissance Learning and Unlocking Your Potential](#reading-renaissance-learning-and-unlocking-your-potential)
-  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
-  - [Worthwhile Popular App](#worthwhile-popular-app)
-  - [Heavier Duty References](#heavier-duty-references)
-    - [Video: Introuction to Module 4](#video-introuction-to-module-4)
-    - [Video: Create a Lively Visual Metaphor or Analogy](#video-create-a-lively-visual-metaphor-or-analogy)
-    - [Video: No Need for Genius Envy - The Imposter Syndrome](#video-no-need-for-genius-envy---the-imposter-syndrome)
-    - [Video: Change Your Thoughts, Change Your Life](#video-change-your-thoughts-change-your-life)
-    - [Video: The Value of Teamwork - Avoiding Overconfidence](#video-the-value-of-teamwork---avoiding-overconfidence)
-    - [Video: A Test Checklist](#video-a-test-checklist)
-    - [Video: The Hard-start—jump-to-easy Technique](#video-the-hard-start%E2%80%94jump-to-easy-technique)
-    - [Video: Final Helpful Hints for Tests](#video-final-helpful-hints-for-tests)
+-   [Reading: Renaissance Learning and Unlocking Your
+    Potential](#reading-renaissance-learning-and-unlocking-your-potential)
+-   [Worthwhile Additional Popular
+    Works](#worthwhile-additional-popular-works)
+-   [Worthwhile Popular App](#worthwhile-popular-app)
+-   [Heavier Duty References](#heavier-duty-references)
+    -   [Video: Introuction to Module 4](#video-introuction-to-module-4)
+    -   [Video: Create a Lively Visual Metaphor or
+        Analogy](#video-create-a-lively-visual-metaphor-or-analogy)
+    -   [Video: No Need for Genius Envy - The Imposter
+        Syndrome](#video-no-need-for-genius-envy---the-imposter-syndrome)
+    -   [Video: Change Your Thoughts, Change Your
+        Life](#video-change-your-thoughts-change-your-life)
+    -   [Video: The Value of Teamwork - Avoiding
+        Overconfidence](#video-the-value-of-teamwork---avoiding-overconfidence)
+    -   [Video: A Test Checklist](#video-a-test-checklist)
+    -   [Video: The Hard-start—jump-to-easy
+        Technique](#video-the-hard-start%E2%80%94jump-to-easy-technique)
+    -   [Video: Final Helpful Hints for
+        Tests](#video-final-helpful-hints-for-tests)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Reading: Renaissance Learning and Unlocking Your Potential
 ==========================================================
 
@@ -95,10 +102,10 @@ Heavier Duty References
 -   Foer, J. Moonwalking with Einstein NY: Penguin, 2011.
 -   Lützen, Jesper. Mechanistic Images in Geometric Form NY: Oxford
     University Press, 2005.
--   Maguire, E.A., D.G. Gadian, I.S. Johnsrude, C.D. Good, J. Ashburner,
-    R.S.J. Frackowiak, and C.D. Frith. "Navigation-Related Structural
-    Change in the Hippocampi of Taxi Drivers." Proceedings of the
-    National Academy of Sciences 97, no. 8 (2000): 4398-403.
+-   Maguire, E.A., D.G. Gadian, I.S. Johnsrude, C.D. Good, J.
+    Ashburner, R.S.J. Frackowiak, and C.D. Frith. "Navigation-Related
+    Structural Change in the Hippocampi of Taxi Drivers." Proceedings of
+    the National Academy of Sciences 97, no. 8 (2000): 4398-403.
 -   Maguire, E.A., E.R. Valentine, J.M. Wilding, and N. Kapur. "Routes
     to Remembering: The Brains Behind Superior Memory." Nature
     Neuroscience 6, no. 1 (2003): 90-95.
@@ -125,8 +132,8 @@ Heavier Duty References
     Better Ones: The Mechanism of the Pernicious Einstellung (Set)
     Effect." Cognition 108, no. 3 (Sep 2008): 652-61.
 -   Bilalić, Merim, A. Kiesel, C. Pohl, M. Erb, and W. Grodd. "It Takes
-    Two—Skilled Recognition of Objects Engages Lateral Areas in Both
-    Hemispheres. "PLoS ONE 6, no. 1 (2011): e16202.
+    Two—Skilled Recognition of Objects Engages Lateral Areas in
+    Both Hemispheres. "PLoS ONE 6, no. 1 (2011): e16202.
 -   Bilalić, Merim, Peter McLeod, and Fernand Gobet. "Does Chess Need
     Intelligence? — a Study with Young Chess Players." Intelligence
     35, no. 5 (2007): 457-70.
@@ -230,10 +237,10 @@ Heavier Duty References
 -   Bilalić, Merim, A. Kiesel, C. Pohl, M. Erb, and W. Grodd. "It Takes
     Two—Skilled Recognition of Objects Engages Lateral Areas in Both
     Hemispheres." PLoS ONE 6, no. 1 (2011): e16202.
--   Christman, S.D., B.R. Henning, A.L. Geers, R.E. Propper, and C.L.
-    Niebauer. "Mixed-Handed Persons Are More Easily Persuaded and Are
-    More Gullible: Interhemispheric Interaction and Belief Updating."
-    Laterality 13, no. 5 (2008): 403-26.
+-   Christman, S.D., B.R. Henning, A.L. Geers, R.E. Propper, and
+    C.L. Niebauer. "Mixed-Handed Persons Are More Easily Persuaded and
+    Are More Gullible: Interhemispheric Interaction and Belief
+    Updating." Laterality 13, no. 5 (2008): 403-26.
 -   Efron, Robert. The Decline and Fall of Hemispheric Specialization.
     Hillsdale, NJ: Lawrence Erlbaum Associates, 1990.
 -   Ellis, Aleksander PJ, John R Hollenbeck, Daniel R Ilgen, Christopher
@@ -262,8 +269,8 @@ Heavier Duty References
     Specialization and Creative Thinking: A Meta-Analytic Review of
     Lateralization of Creativity." Brain and Cognition 72, no. 3 (Apr
     2010): 442-8.
--   Nielsen, Jared A. , Brandon A. Zielinski, Michael A. Ferguson, Janet
-    E. Lainhart, and Jeffrey S. Anderson. "An Evaluation of the
+-   Nielsen, Jared A. , Brandon A. Zielinski, Michael A. Ferguson,
+    Janet E. Lainhart, and Jeffrey S. Anderson. "An Evaluation of the
     Left-Brain Vs. Right-Brain Hypothesis with Resting State Functional
     Connectivity Magnetic Resonance Imaging." PLOS ONE 8, no. 8 (2013).
 -   Oakley, Barbara, Richard M. Felder, Rebecca Brent, and Imad Elhajj.

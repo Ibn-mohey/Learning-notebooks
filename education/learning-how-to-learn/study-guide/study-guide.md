@@ -2,18 +2,18 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Study Guide for Learning How to Learn](#study-guide-for-learning-how-to-learn)
-- [Modes of Thinking](#modes-of-thinking)
-- [Habits](#habits)
-- [Procrastination](#procrastination)
-- [Memory](#memory)
-- [Sleep](#sleep)
-- [Chunking](#chunking)
-- [Illusion of Competence](#illusion-of-competence)
-- [Overlearning](#overlearning)
+-   [Study Guide for Learning How to
+    Learn](#study-guide-for-learning-how-to-learn)
+-   [Modes of Thinking](#modes-of-thinking)
+-   [Habits](#habits)
+-   [Procrastination](#procrastination)
+-   [Memory](#memory)
+-   [Sleep](#sleep)
+-   [Chunking](#chunking)
+-   [Illusion of Competence](#illusion-of-competence)
+-   [Overlearning](#overlearning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Study Guide for Learning How to Learn
 =====================================
 

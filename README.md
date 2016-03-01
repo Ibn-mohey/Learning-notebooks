@@ -6,6 +6,7 @@ Table of Contents
   - [Background](#background)
     - [About This Repository](#about-this-repository)
   - [Current Courses](#current-courses)
+  - [Completed Courses](#completed-courses)
     - [Education](#education)
   - [Resources](#resources)
     - [MOOC Platforms](#mooc-platforms)

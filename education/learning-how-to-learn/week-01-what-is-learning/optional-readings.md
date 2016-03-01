@@ -2,19 +2,25 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Readings](#readings)
-  - [Worthwhile Additional Popular Works](#worthwhile-additional-popular-works)
-  - [Heavier Duty References](#heavier-duty-references)
-    - [Video: Introduction to the Focused and Diffuse Modes](#video-introduction-to-the-focused-and-diffuse-modes)
-    - [Video: Using the Focused and Diffuse Modes: (Or, a little Dalí will do ya)](#video-using-the-focused-and-diffuse-modes-or-a-little-dal%C3%AD-will-do-ya)
-    - [Video: What is Learning?](#video-what-is-learning)
-    - [Video: A Procrastination Preview](#video-a-procrastination-preview)
-    - [Video: Practice Makes Permanent](#video-practice-makes-permanent)
-    - [Video: Introduction to Memory](#video-introduction-to-memory)
-    - [Video: The Importance of Sleep in Learning](#video-the-importance-of-sleep-in-learning)
+-   [Readings](#readings)
+-   [Worthwhile Additional Popular
+    Works](#worthwhile-additional-popular-works)
+-   [Heavier Duty References](#heavier-duty-references)
+    -   [Video: Introduction to the Focused and Diffuse
+        Modes](#video-introduction-to-the-focused-and-diffuse-modes)
+    -   [Video: Using the Focused and Diffuse Modes: (Or, a little Dalí
+        will
+        do ya)](#video-using-the-focused-and-diffuse-modes-or-a-little-dal%C3%AD-will-do-ya)
+    -   [Video: What is Learning?](#video-what-is-learning)
+    -   [Video: A Procrastination
+        Preview](#video-a-procrastination-preview)
+    -   [Video: Practice Makes
+        Permanent](#video-practice-makes-permanent)
+    -   [Video: Introduction to Memory](#video-introduction-to-memory)
+    -   [Video: The Importance of Sleep in
+        Learning](#video-the-importance-of-sleep-in-learning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Readings
 ========
 
@@ -157,8 +163,8 @@ Heavier Duty References
 -   Geary, David C, A Wade Boykin, Susan Embretson, Valerie Reyna,
     Robert Siegler, Daniel B Berch, and J Graban. "Task Group Reports of
     the National Mathematics Advisory Panel; Chapter 4: Report of the
-    Task Group on Learning Processes." In, (2008): 2008.
-    http://www2.ed.gov/about/bdscomm/list/mathpanel/report/learning-processes.pdf.
+    Task Group on Learning Processes." In, (2008):
+    2008. http://www2.ed.gov/about/bdscomm/list/mathpanel/report/learning-processes.pdf.
 -   Guida, A., F. Gobet, H. Tardieu, and S. Nicolas. "How Chunks,
     Long-Term Working Memory and Templates Offer a Cognitive Explanation
     for Neuroimaging Data on Expertise Acquisition: A Two-Stage
@@ -247,8 +253,8 @@ Heavier Duty References
 
 ### Video: The Importance of Sleep in Learning
 
--   Djonlagic, I., A. Rosenfeld, D. Shohamy, C. Myers, M. Gluck, and R.
-    Stickgold. "Sleep Enhances Category Learning." Learning & Memory
+-   Djonlagic, I., A. Rosenfeld, D. Shohamy, C. Myers, M. Gluck, and
+    R. Stickgold. "Sleep Enhances Category Learning." Learning & Memory
     16, no. 12 (Dec 2009): 751-5.
 -   Eichenbaum, H. "To Sleep, Perchance to Integrate." PNAS, 104, no. 18
     (May 1 2007): 7317-8.

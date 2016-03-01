@@ -2,14 +2,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Seeing the Bigger Picture](#seeing-the-bigger-picture)
-  - [What Motivates You](#what-motivates-you)
-  - [The Value of a Library of Chunks: Compaction, Transfer, Creativity, and the Law of Serendipity](#the-value-of-a-library-of-chunks-compaction-transfer-creativity-and-the-law-of-serendipity)
-  - [Overlearning, Choking, the Eintellung Effect, and Interleaving](#overlearning-choking-the-eintellung-effect-and-interleaving)
-  - [Summary](#summary)
+-   [Seeing the Bigger Picture](#seeing-the-bigger-picture)
+-   [What Motivates You](#what-motivates-you)
+-   [The Value of a Library of Chunks: Compaction, Transfer, Creativity,
+    and the Law of
+    Serendipity](#the-value-of-a-library-of-chunks-compaction-transfer-creativity-and-the-law-of-serendipity)
+-   [Overlearning, Choking, the Eintellung Effect, and
+    Interleaving](#overlearning-choking-the-eintellung-effect-and-interleaving)
+-   [Summary](#summary)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Seeing the Bigger Picture
 =========================
 

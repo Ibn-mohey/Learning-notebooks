@@ -2,14 +2,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [Optional Interviews](#optional-interviews)
-  - [Caroline on Learning Something Difficult that Others Think isn't "You"](#caroline-on-learning-something-difficult-that-others-think-isnt-you)
-  - [Nelson Dellis - 4-time US Memory Champion](#nelson-dellis---4-time-us-memory-champion)
-  - [Dr. Robert Gamache, an Award-winning Bilingual Scientist](#dr-robert-gamache-an-award-winning-bilingual-scientist)
-  - [Stanford's Dr. Keith Devlin, the NPR "Math Guy"](#stanfords-dr-keith-devlin-the-npr-math-guy)
+-   [Optional Interviews](#optional-interviews)
+-   [Caroline on Learning Something Difficult that Others Think isn't
+    "You"](#caroline-on-learning-something-difficult-that-others-think-isnt-you)
+-   [Nelson Dellis - 4-time US Memory
+    Champion](#nelson-dellis---4-time-us-memory-champion)
+-   [Dr. Robert Gamache, an Award-winning Bilingual
+    Scientist](#dr-robert-gamache-an-award-winning-bilingual-scientist)
+-   [Stanford's Dr. Keith Devlin, the NPR "Math
+    Guy"](#stanfords-dr-keith-devlin-the-npr-math-guy)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 Optional Interviews
 ===================
 

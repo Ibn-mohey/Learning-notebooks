@@ -2,11 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [10 Rules of Good Studying](#10-rules-of-good-studying)
-- [10 Rules of Bad Studying](#10-rules-of-bad-studying)
+-   [10 Rules of Good Studying](#10-rules-of-good-studying)
+-   [10 Rules of Bad Studying](#10-rules-of-bad-studying)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 These rules form a synthesis of some of the main ideas of the
 course--they are excerpted from the book *A Mind for Numbers: How to
 Excel in Math and Science (Even if You Flunked Algebra)*, by Barbara
@@ -17,8 +16,8 @@ citation.
 10 Rules of Good Studying
 =========================
 
-1.  **Use recall**. After you read a page, look away and recall the main
-    ideas. Highlight very little, and never highlight anything you
+1.  **Use recall**. After you read a page, look away and recall the
+    main ideas. Highlight very little, and never highlight anything you
     haven’t put in your mind first by recalling. Try recalling main
     ideas when you are walking to class or in a different room from
     where you originally learned it. An ability to recall—to generate
