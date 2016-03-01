@@ -29,19 +29,19 @@ The structure of this repository utilizes in the following pattern: `courses/{su
 
 ## Current Courses
 
-| Subject | Course | School | Platform | Notes | Dates |
-|---------|--------|--------|----------|-------|-------|
-| Computer Science | [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) Pt. 1 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | [Notes]() | *February 15 - April 3, 2016* |
-| Computer Science | [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) Pt. 1 - [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) | [Notes]() | *February 29 - March 27, 2016* |
-| Education | [Learning Mindsets and Skills](https://www.coursera.org/learn/learning-skills) | [High Tech High Graduate School of Education](http://gse.hightechhigh.org/) | [Coursera](https://coursera.org/) | [Notes]() | *Self-paced* |
+| Subject | Course | Program | School | Platform | Notes | Dates |
+|---------|--------|---------|--------|----------|-------|-------|
+| Computer Science | [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | [Java Programming: Object-Oriented Design of Data Structures](https://www.coursera.org/specializations/java-object-oriented) (1) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | [Notes]() | *February 15 - April 3, 2016* |
+| Computer Science | [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript) | [Full Stack Web Development](https://www.coursera.org/specializations/full-stack) (1) | [The Hong Kong University of Science and Technology](http://www.ust.hk/) | [Coursera](https://coursera.org/) | [Notes]() | *February 29 - March 27, 2016* |
+| Education | [Learning Mindsets and Skills](https://www.coursera.org/learn/learning-skills) | *None* | [High Tech High Graduate School of Education](http://gse.hightechhigh.org/) | [Coursera](https://coursera.org/) | [Notes]() | *Self-paced* |
 
 ## Completed Courses
 
 ### Education
 
-| Course | School | Platform | Notes | Dates |
-|--------|--------|----------|-------|-------|
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | [Notes](https://github.com/schlomok/courses/tree/master/education/learning-how-to-learn) | *February 1 - March 6, 2016* |
+| Course | Program | School | Platform | Notes | Dates |
+|--------|---------|--------|----------|-------|-------|
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | *None* | [University of California, San Diego](https://ucsd.edu/) | [Coursera](https://coursera.org/) | [Notes](https://github.com/schlomok/courses/tree/master/education/learning-how-to-learn) | *February 1 - March 6, 2016* |
 
 ## Resources
 
