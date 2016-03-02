@@ -253,8 +253,8 @@ Heavier Duty References
 
 ### Video: The Importance of Sleep in Learning
 
--   Djonlagic, I., A. Rosenfeld, D. Shohamy, C. Myers, M. Gluck, and R.
-    Stickgold. "Sleep Enhances Category Learning." Learning & Memory
+-   Djonlagic, I., A. Rosenfeld, D. Shohamy, C. Myers, M. Gluck, and
+    R. Stickgold. "Sleep Enhances Category Learning." Learning & Memory
     16, no. 12 (Dec 2009): 751-5.
 -   Eichenbaum, H. "To Sleep, Perchance to Integrate." PNAS, 104, no. 18
     (May 1 2007): 7317-8.

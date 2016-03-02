@@ -25,7 +25,11 @@ I also maintain a list of [intended courses](https://github.com/schlomok/courses
 
 ### About This Repository
 
-The structure of this repository utilizes in the following pattern: `courses/{subject}/{course}/{...}`, where `{...}` is reflected by the structure of that specific course. Often, this structure is based on weeks.
+The structure of this repository utilizes in the following pattern: 
+`notebook/{subject}/{program}/{course}/{...}`, where `{...}` is reflected by 
+the structure of that specific course. Often, this structure is based on weeks. 
+Sometimes, courses are not part of programs, however. In this case, they follow
+`notebook/{subject}/{course}/{...}`.
 
 ## Current Courses
 
