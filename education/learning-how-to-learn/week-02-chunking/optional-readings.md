@@ -331,8 +331,8 @@ Heavier Duty References
     chess masters. Cognitive psychology, 56(2), 73-102. doi:
     10.1016/j.cogpsych.2007.02.001
 -   Bilalić, M., McLeod, P., & Gobet, F. (2008). Why good thoughts block
-    better ones: The mechanism of the pernicious Einstellung
-    (set) effect. Cognition, 108(3), 652-661. doi:
+    better ones: The mechanism of the pernicious Einstellung (set)
+    effect. Cognition, 108(3), 652-661. doi:
     10.1016/j.cognition.2008.05.005
 -   Carey, B. (2012). "Cognitive science meets pre-algebra." New York
     Times, Sep
@@ -341,8 +341,8 @@ Heavier Duty References
 
 -   Duarte, N. (2012). HBR Guide to Persuasive Presentations: Harvard
     Business Review Press.
--   Feynman, R. (1985). "Surely You're Joking, Mr. Feynman". NY: W. W.
-    Norton.
+-   Feynman, R. (1985). "Surely You're Joking, Mr. Feynman". NY: W.
+    W. Norton.
 -   Geary, D. C. (2011). Primal brain in the modern classroom.
     Scientific American Mind, 22(4), 44-49.
 -   Kuhn, T. (1962). The Structure of Scientific Revolutions (2nd
