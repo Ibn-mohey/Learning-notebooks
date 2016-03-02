@@ -237,10 +237,10 @@ Heavier Duty References
 -   Bilalić, Merim, A. Kiesel, C. Pohl, M. Erb, and W. Grodd. "It Takes
     Two—Skilled Recognition of Objects Engages Lateral Areas in Both
     Hemispheres." PLoS ONE 6, no. 1 (2011): e16202.
--   Christman, S.D., B.R. Henning, A.L. Geers, R.E. Propper, and
-    C.L. Niebauer. "Mixed-Handed Persons Are More Easily Persuaded and
-    Are More Gullible: Interhemispheric Interaction and Belief
-    Updating." Laterality 13, no. 5 (2008): 403-26.
+-   Christman, S.D., B.R. Henning, A.L. Geers, R.E. Propper, and C.L.
+    Niebauer. "Mixed-Handed Persons Are More Easily Persuaded and Are
+    More Gullible: Interhemispheric Interaction and Belief Updating."
+    Laterality 13, no. 5 (2008): 403-26.
 -   Efron, Robert. The Decline and Fall of Hemispheric Specialization.
     Hillsdale, NJ: Lawrence Erlbaum Associates, 1990.
 -   Ellis, Aleksander PJ, John R Hollenbeck, Daniel R Ilgen, Christopher

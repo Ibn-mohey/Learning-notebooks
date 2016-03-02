@@ -101,9 +101,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
-    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
-    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
+    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
+    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Surf’s Up! Process versus Product
 
@@ -120,9 +120,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
-    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
-    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
+    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
+    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Harnessing Your Zombies to help You
 
@@ -139,9 +139,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
-    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
-    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
+    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
+    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Juggling Life and Learning
 
@@ -158,9 +158,9 @@ Heavier Duty References
     Theoretical Review of Quintessential Self-Regulatory Failure."
     Psychological Bulletin 133, no. 1 (Jan 2007): 65-94. ———. The
     Procrastination Equation. NY: Random House, 2010.
--   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and
-    K. Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation
-    in Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
+-   Wan, X., H. Nakatani, K. Ueno, T. Asamizuya, K. Cheng, and K.
+    Tanaka. "The Neural Basis of Intuitive Best Next-Move Generation in
+    Board Game Experts." Science 331, no. 6015 (Jan 21 2011): 341-6.
 
 ### Video: Diving Deeper into Memory
 
